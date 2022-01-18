@@ -1,8 +1,8 @@
 {
-  "name": "@elrondnetwork/dapp-core",
-  "version": "0.2.2",
-  "description": "A library to hold the main logic for a dapp on the Elrond Network",
-  "author": "ElrondNetwork",
+  "name": "@elrondnetwork/dapp-core-wo-bs",
+  "version": "0.2.3",
+  "description": "A library to hold the main logic for a dapp on the Elrond Network, without bootstrap",
+  "author": "S Sengupta",
   "license": "GPL-3.0-or-later",
   "repository": "ElrondNetwork/dapp-core",
   "main": "build/index.js",
